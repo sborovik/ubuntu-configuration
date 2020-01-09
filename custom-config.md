@@ -7,4 +7,5 @@ find and replace
 `<shortDescription>en</shortDescription>` to `<shortDescription>🇬🇧</shortDescription>` 
 #### for 🇺🇦 
 `<shortDescription>uk</shortDescription>`to `<shortDescription>🇺🇦</shortDescription>`
+
 save and reboot 
