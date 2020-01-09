@@ -1,4 +1,4 @@
-# Change keyboard layout to flags on Ubuntu 18.04 
+# Show flags instead of labels in the keyboard layout language indicator in GNOME shell on Ubuntu 18.04 
 
 
 sudo -i gedit /usr/share/X11/xkb/rules/evdev.xml 
