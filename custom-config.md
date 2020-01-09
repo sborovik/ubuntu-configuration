@@ -2,9 +2,9 @@
 
 
 sudo -i gedit /usr/share/X11/xkb/rules/evdev.xml 
-find and replace <br>
-#### for 🇬🇧 <br>
-`<shortDescription>en</shortDescription>` to `<shortDescription>🇬🇧</shortDescription>` <br>
-#### for 🇺🇦 <br>
-`<shortDescription>uk</shortDescription>`to `<shortDescription>🇺🇦</shortDescription>`<br>
+find and replace 
+#### for 🇬🇧 
+`<shortDescription>en</shortDescription>` to `<shortDescription>🇬🇧</shortDescription>` 
+#### for 🇺🇦 
+`<shortDescription>uk</shortDescription>`to `<shortDescription>🇺🇦</shortDescription>`
 save and reboot 
